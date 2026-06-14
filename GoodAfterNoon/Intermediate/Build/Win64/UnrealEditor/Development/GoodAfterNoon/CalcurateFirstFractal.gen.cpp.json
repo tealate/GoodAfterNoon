@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\inc\\goodafternoon\\calcuratefirstfractal.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\goodafternooneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\development\\goodafternoon\\definitions.goodafternoon.h",
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\source\\goodafternoon\\public\\calcuratefirstfractal.h",
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\inc\\goodafternoon\\calcuratefirstfractal.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

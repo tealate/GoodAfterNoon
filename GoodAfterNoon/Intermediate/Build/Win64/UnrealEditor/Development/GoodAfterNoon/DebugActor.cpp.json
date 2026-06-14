@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\gitproject\\goodafternoon\\goodafternoon\\source\\goodafternoon\\private\\debugactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\goodafternooneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\development\\goodafternoon\\definitions.goodafternoon.h",
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\source\\goodafternoon\\public\\debugactor.h",
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\source\\goodafternoon\\public\\calcuratefirstfractal.h",
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\inc\\goodafternoon\\calcuratefirstfractal.generated.h",
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\inc\\goodafternoon\\debugactor.generated.h",
+            "c:\\cepiclibrary\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\cepiclibrary\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\cepiclibrary\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
