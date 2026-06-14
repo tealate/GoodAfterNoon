@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\inc\\goodafternoon\\goodafternoongamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\goodafternooneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\development\\goodafternoon\\definitions.goodafternoon.h",
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\source\\goodafternoon\\goodafternoongamemode.h",
+            "c:\\cepiclibrary\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\cepiclibrary\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\cepiclibrary\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\cepiclibrary\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\inc\\goodafternoon\\goodafternoongamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

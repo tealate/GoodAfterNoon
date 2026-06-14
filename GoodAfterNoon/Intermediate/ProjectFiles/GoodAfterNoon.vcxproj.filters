@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GoodAfterNoon.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GoodAfterNoon.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GoodAfterNoonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\GoodAfterNoon">
+      <UniqueIdentifier>{DB10174C-FD09-3D76-A7CA-BDEAEBB40C30}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GoodAfterNoon\GoodAfterNoon.Build.cs">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GoodAfterNoon\GoodAfterNoon.cpp">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GoodAfterNoon\GoodAfterNoon.h">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GoodAfterNoon\GoodAfterNoonCharacter.cpp">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GoodAfterNoon\GoodAfterNoonCharacter.h">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GoodAfterNoon\GoodAfterNoonGameMode.cpp">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GoodAfterNoon\GoodAfterNoonGameMode.h">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GoodAfterNoon\GoodAfterNoonProjectile.cpp">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GoodAfterNoon\GoodAfterNoonProjectile.h">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GoodAfterNoon\TP_PickUpComponent.cpp">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GoodAfterNoon\TP_PickUpComponent.h">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GoodAfterNoon\TP_WeaponComponent.cpp">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GoodAfterNoon\TP_WeaponComponent.h">
+      <Filter>Source\GoodAfterNoon</Filter>
+    </ClInclude>
+    <Filter Include="Source\GoodAfterNoon\Private">
+      <UniqueIdentifier>{6B9BA4FF-70A2-3088-B38C-C28F5AA2B442}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GoodAfterNoon\Private\CalcurateFirstFractal.cpp">
+      <Filter>Source\GoodAfterNoon\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GoodAfterNoon\Private\DebugActor.cpp">
+      <Filter>Source\GoodAfterNoon\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GoodAfterNoon\Public">
+      <UniqueIdentifier>{FC5CE2B5-34F5-3A76-9DE2-4A9A2F015FC6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GoodAfterNoon\Public\CalcurateFirstFractal.h">
+      <Filter>Source\GoodAfterNoon\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GoodAfterNoon\Public\DebugActor.h">
+      <Filter>Source\GoodAfterNoon\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

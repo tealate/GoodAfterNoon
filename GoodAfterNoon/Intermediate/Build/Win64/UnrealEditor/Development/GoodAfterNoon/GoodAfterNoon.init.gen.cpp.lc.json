@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\inc\\goodafternoon\\goodafternoon.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\goodafternooneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\gitproject\\goodafternoon\\goodafternoon\\intermediate\\build\\win64\\unrealeditor\\development\\goodafternoon\\definitions.goodafternoon.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

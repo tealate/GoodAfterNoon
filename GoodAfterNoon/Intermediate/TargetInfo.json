@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GoodAfterNoon",
+			"Path": "E:\\GitProject\\GoodAfterNoon\\GoodAfterNoon\\Source\\GoodAfterNoon.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GoodAfterNoonEditor",
+			"Path": "E:\\GitProject\\GoodAfterNoon\\GoodAfterNoon\\Source\\GoodAfterNoonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
